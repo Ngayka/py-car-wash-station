@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a83b56d-6894-4b0b-9dd6-c29c333caa5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/car-wash-station.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py-car-wash-station/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-car-wash-station/app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

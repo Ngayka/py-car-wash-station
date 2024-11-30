@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a83b56d-6894-4b0b-9dd6-c29c333caa5f" name="Changes" comment="still stayed filenotfounderror">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3a83b56d-6894-4b0b-9dd6-c29c333caa5f" name="Changes" comment=" fixed flake8">
       <change beforePath="$PROJECT_DIR$/py-car-wash-station/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-car-wash-station/app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1732899757722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" fixed flake8">
+      <option name="closed" value="true" />
+      <created>1732958443266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732958443266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="still stayed filenotfounderror" />
-    <option name="LAST_COMMIT_MESSAGE" value="still stayed filenotfounderror" />
+    <MESSAGE value=" fixed flake8" />
+    <option name="LAST_COMMIT_MESSAGE" value=" fixed flake8" />
   </component>
 </project>

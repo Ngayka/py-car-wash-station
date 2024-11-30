@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a83b56d-6894-4b0b-9dd6-c29c333caa5f" name="Changes" comment=" fixed flake8">
-      <change beforePath="$PROJECT_DIR$/py-car-wash-station/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-car-wash-station/app/main.py" afterDir="false" />
+    <list default="true" id="3a83b56d-6894-4b0b-9dd6-c29c333caa5f" name="Changes" comment=" changed tuple to None in rate_service">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +82,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="still stayed filenotfounderror" />
     <MESSAGE value=" fixed flake8" />
-    <option name="LAST_COMMIT_MESSAGE" value=" fixed flake8" />
+    <MESSAGE value="update py-car-wash-station" />
+    <MESSAGE value=" changed tuple to None in rate_service" />
+    <option name="LAST_COMMIT_MESSAGE" value=" changed tuple to None in rate_service" />
   </component>
 </project>
